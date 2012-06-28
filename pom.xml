@@ -12,7 +12,7 @@
     <url>https://github.com/pallet/ssh-crate</url>
   </scm>
   <artifactId>ssh</artifactId>
-  <version>0.7.0-beta.1</version>
+  <version>0.7.0-SNAPSHOT</version>
 
   <dependencies>
     <dependency>
