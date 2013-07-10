@@ -1,0 +1,10 @@
+{:header "ssh"
+ :title
+ "A [pallet](http://palletops.com/) crate to install and configure ssh."
+ :git-repo "https://github.com/pallet/ssh-crate"
+ :api-docs "http://palletops.com/ssh-crate/0.8/api"
+ :annotated-docs "http://palletops.com/ssh-crate/0.8/annotated/uberdoc.html"
+ :tag-prefix ""
+ :artifact-id "ssh-crate"
+ :source-path "src/pallet/crate/ssh.clj"
+ :versions [{:pallet "0.8.0-RC.1" :version "0.8.0-SNAPSHOT"}]}
